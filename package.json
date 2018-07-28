@@ -1,0 +1,25 @@
+{
+  "name": "normapi",
+  "version": "1.0.0",
+  "description": "Normapi queue object.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://hegelakos@bitbucket.org/letsneth/normapi.git"
+  },
+  "keywords": [
+    "queue",
+    "normapi"
+  ],
+  "author": "Letsnet Hungary",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/letsneth/normapi#readme",
+  "dependencies": {
+    "ajv": "^6.5.2",
+    "mongoose": "^5.2.5",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "debug": "^3.1.0"
+  }
+}
