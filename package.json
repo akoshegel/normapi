@@ -1,6 +1,6 @@
 {
   "name": "normapi",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Normapi queue object.",
   "main": "index.js",
   "repository": {
