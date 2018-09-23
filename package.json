@@ -1,6 +1,6 @@
 {
   "name": "normapi",
-  "version": "1.0.8",
+  "version": "2.0.10",
   "description": "Normapi queue object.",
   "main": "index.js",
   "repository": {
@@ -15,11 +15,12 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/letsneth/normapi#readme",
   "dependencies": {
-    "ajv": "^6.5.2",
-    "mongoose": "^5.2.5",
-    "request": "^2.87.0"
+    "ajv": "^6.5.3",
+    "mongoose": "^5.2.16",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
   },
   "devDependencies": {
-    "debug": "^3.1.0"
+    "debug": "^3.2.5"
   }
 }
