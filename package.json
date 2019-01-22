@@ -15,12 +15,12 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/letsneth/normapi#readme",
   "dependencies": {
-    "ajv": "^6.5.3",
-    "mongoose": "^5.2.16",
+    "ajv": "^6.7.0",
+    "mongoose": "^5.4.5",
     "path": "^0.12.7",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "debug": "^3.2.5"
+    "debug": "^3.2.6"
   }
 }
