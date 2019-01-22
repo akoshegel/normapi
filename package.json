@@ -1,26 +1,26 @@
 {
-  "name": "normapi",
-  "version": "2.0.11",
-  "description": "Normapi queue object.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://hegelakos@bitbucket.org/letsneth/normapi.git"
-  },
-  "keywords": [
-    "queue",
-    "normapi"
-  ],
-  "author": "Letsnet Hungary",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/letsneth/normapi#readme",
-  "dependencies": {
-    "ajv": "^6.7.0",
-    "mongoose": "^5.4.5",
-    "path": "^0.12.7",
-    "request": "^2.88.0"
-  },
-  "devDependencies": {
-    "debug": "^3.2.6"
-  }
+	"name": "normapi",
+	"version": "2.1.0",
+	"description": "Normapi queue object.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://hegelakos@bitbucket.org/letsneth/normapi.git"
+	},
+	"keywords": [
+		"queue",
+		"normapi"
+	],
+	"author": "Letsnet Hungary",
+	"license": "ISC",
+	"homepage": "https://bitbucket.org/letsneth/normapi#readme",
+	"dependencies": {
+		"ajv": "^6.7.0",
+		"mongoose": "^5.4.5",
+		"path": "^0.12.7",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {
+		"debug": "^3.2.6"
+	}
 }
